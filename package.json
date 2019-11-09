@@ -1,0 +1,27 @@
+{
+  "name": "cypressazureadlogin",
+  "version": "1.0.0",
+  "description": "Cypress login though Azure AD",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddregalo/CypressAzureADLogin.git"
+  },
+  "keywords": [
+    "cypress",
+    "azure",
+    "login"
+  ],
+  "author": "daniel r. campos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddregalo/CypressAzureADLogin/issues"
+  },
+  "homepage": "https://github.com/ddregalo/CypressAzureADLogin#readme",
+  "devDependencies": {
+    "cypress": "^3.6.1"
+  }
+}
