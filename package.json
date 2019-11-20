@@ -23,5 +23,8 @@
   "homepage": "https://github.com/ddregalo/CypressAzureADLogin#readme",
   "devDependencies": {
     "cypress": "^3.6.1"
+  },
+  "dependencies": {
+    "puppeteer": "^2.0.0"
   }
 }
